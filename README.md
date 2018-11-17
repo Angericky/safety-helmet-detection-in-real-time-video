@@ -20,17 +20,17 @@ An OpenCV/Qt based realtime application to magnify motion and color in videos an
 
 # How do I use it?
 
-
+![MainWindow with saving codec menu](pictures/MainWindow.png)
 ![Motion Magnified Camerastream](pictures/Connext.png)
 Operating details refer to 《安全帽检测软件操作说明书》.
+
 
 ### Main Window
 When succesfully connected to a camera or opened a window, you can draw a box in the video, to scale and only amplify this Region Of Interest in a video source. Setting the video back to normal can be done via menu that opens with a right click in the video. There is also the option to show the unmagnified image besides the processed one.
 
 ![Right-click Menu in Frame Label](pictures/Camera.png)
-![Right-click Menu in Frame Label](pictures/Connext.png)
+![Right-click Menu in Frame Label](pictures/Connect.png)
 
 ### Save
 For saving videos or recording from camera you have to specify the file extension by your own. .avi is well supported. If you should encounter problems, please try a differenct saving codec in the toolbar under File->Set Saving Codec.
 
-![MainWindow with saving codec menu](pictures/MainWindow.png)
