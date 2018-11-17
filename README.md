@@ -1,4 +1,4 @@
-# Realtime-Video-Magnification
+# Realtime-Video-Safety-Helmet-Detection
 An OpenCV/Qt based realtime application to magnify motion and color in videos and camerastreams
 
 ## Examples
@@ -15,9 +15,6 @@ An OpenCV/Qt based realtime application to magnify motion and color in videos an
 ### Dependencies
 - [Qt](http://qt-project.org/) >= 5.0
 - [OpenCV](http://opencv.org/) >= 2.0 (< 3.0 ? -> not tested yet)
-
-### License
-This application is licensed under GPLv3, read the [LICENSE](LICENSE).
 
 ### Credits
 Thanks to Nick D'Ademo whose [qt-opencv-multithreaded](https://github.com/nickdademo/qt-opencv-multithreaded) application 
