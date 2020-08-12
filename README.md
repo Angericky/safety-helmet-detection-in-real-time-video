@@ -22,7 +22,6 @@ An OpenCV/Qt based realtime application to magnify motion and color in videos an
 
 ![MainWindow with saving codec menu](pictures/MainWindow.png)
 ![Motion Magnified Camerastream](pictures/Connext.png)
-Operating details refer to 《安全帽检测软件操作说明书》.
 
 
 ### Main Window
