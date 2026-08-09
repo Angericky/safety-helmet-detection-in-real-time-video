@@ -1,3 +1,5 @@
+
+
 # Realtime-Video-Safety-Helmet-Detection
 An OpenCV/Qt based realtime application to magnify motion and color in videos and camerastreams
 
@@ -21,7 +23,7 @@ An OpenCV/Qt based realtime application to magnify motion and color in videos an
 # How do I use it?
 
 ![MainWindow with saving codec menu](pictures/MainWindow.png)
-![Motion Magnified Camerastream](pictures/Connext.png)
+![Connect to Camera or Open File](pictures/Connect.png)
 
 
 ### Main Window
@@ -32,4 +34,3 @@ When succesfully connected to a camera or opened a window, you can draw a box in
 
 ### Save
 For saving videos or recording from camera you have to specify the file extension by your own. .avi is well supported. If you should encounter problems, please try a differenct saving codec in the toolbar under File->Set Saving Codec.
-
